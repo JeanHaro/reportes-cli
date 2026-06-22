@@ -1,0 +1,25 @@
+{
+  "name": "01-tareas-cli",
+  "version": "0.1.0",
+  "description": "CLI interactivo para gestión de reportes técnicos con filtros combinables y persistencia en disco.  ",
+  "license": "MIT",
+  "author": "Jean Haro",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "build:watch": "tsc -w"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "11.1.1",
+      "onFail": "download"
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2"
+  }
+}

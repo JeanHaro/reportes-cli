@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2,
+    "title": "Jean",
+    "author": "jean",
+    "priority": 2,
+    "category": 1,
+    "tags": [
+      "TS",
+      "JS",
+      "Angular"
+    ],
+    "createdAt": "20/4/2026"
+  },
+  {
+    "id": 3,
+    "title": "Bug error en tarjeta",
+    "author": "Jean",
+    "priority": 1,
+    "category": 2,
+    "tags": [
+      "No valida DNI",
+      "no encuentra tarjeta"
+    ],
+    "createdAt": "20/4/2026"
+  },
+  {
+    "id": 4,
+    "title": "Se encontraron incidencias en el frontend",
+    "author": "Pepe",
+    "priority": 2,
+    "category": 1,
+    "tags": [
+      "Hay enlaces que se ocultan",
+      "Lugar: admin"
+    ],
+    "createdAt": "20/4/2026"
+  }
+]
