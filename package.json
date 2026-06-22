@@ -1,5 +1,5 @@
 {
-  "name": "01-tareas-cli",
+  "name": "reportes-cli",
   "version": "0.1.0",
   "description": "CLI interactivo para gestión de reportes técnicos con filtros combinables y persistencia en disco.",
   "license": "MIT",
