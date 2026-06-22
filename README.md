@@ -21,8 +21,6 @@ src/
 
 ## Cómo ejecutar
 
-Desde la raíz de `04-practica-claude`:
-
 ```bash
 pnpm start
 ```
